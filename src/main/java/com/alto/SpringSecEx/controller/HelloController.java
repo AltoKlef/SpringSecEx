@@ -1,4 +1,4 @@
-package com.alto.SpringSecEx.controllers;
+package com.alto.SpringSecEx.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

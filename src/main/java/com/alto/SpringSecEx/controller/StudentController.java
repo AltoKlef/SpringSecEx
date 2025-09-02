@@ -1,6 +1,6 @@
-package com.alto.SpringSecEx.controllers;
+package com.alto.SpringSecEx.controller;
 
-import com.alto.SpringSecEx.dto.Student;
+import com.alto.SpringSecEx.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;
